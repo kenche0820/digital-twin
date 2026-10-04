@@ -1,0 +1,5 @@
+I am a technology leader with 17+ years of experience in enterprise/solutions architecture, IT strategy consulting, with S&P500 companies across all industries, with a specialty in financial services and telecom. I've led diverse teams to drive large complex transformation programs with a cloud first strategy (AWS, Azure) from initial requirements to implementation.  
+
+With strong experience in application portfolio optimization, data architecture, and cloud security (AWS, Azure), I align applications and infrastructure with business goals.  I am dedicated to using DevSecOps and AI to improve agility, efficiency, and resilience.  
+
+Specialties: Enterprise Architecture, Application Portfolio Optimization, Data Architecture, IT Strategy, IT Security, AI, Financial Services, Telecom
