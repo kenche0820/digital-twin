@@ -5,7 +5,6 @@ set -e
 if [ $# -eq 0 ]; then
     echo "❌ Error: Environment parameter is required"
     echo "Usage: $0 <environment>"
-    echo "Example: $0 dev"
     echo "Available environments: dev, test, prod"
     exit 1
 fi
@@ -80,7 +79,3 @@ else
 fi
 
 echo "✅ Infrastructure for ${ENVIRONMENT} has been destroyed!"
-echo ""
-echo "💡 To remove the workspace completely, run:"
-echo "   terraform workspace select default"
-echo "   terraform workspace delete $ENVIRONMENT"
